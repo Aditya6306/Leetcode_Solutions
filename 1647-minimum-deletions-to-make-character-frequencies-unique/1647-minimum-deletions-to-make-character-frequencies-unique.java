@@ -1,17 +1,20 @@
 class Solution {
     public int minDeletions(String s) {
-        HashSet<Integer> set = new HashSet<>();
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(char c : s.toCharArray()){
-            map.put(c, map.getOrDefault(c, 0)+1);
-        }
+        int[] map = new int[26];
+        for(char c : s.toCharArray()) map[c-'a']++;
+
+        Arrays.sort(map);
+
         int ans=0;
-        for(char key : map.keySet()){
-            int freq=map.get(key);
-            int temp=freq;
-            while(temp>0 && set.contains(temp)) temp--;
-            ans += freq-temp;
-            set.add(temp); 
+        int i=24;
+        while(i>=0){
+            if(map[i] == 0) break;
+            if(map[i]>=map[i+1]){
+                int freq=map[i];
+                map[i]=Math.max(0,map[i+1]-1);
+                ans += freq-map[i];
+            }
+            i--;
         }
         return ans;
     }
