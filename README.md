@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Math
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
