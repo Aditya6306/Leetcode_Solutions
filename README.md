@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Prefix Sum
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
