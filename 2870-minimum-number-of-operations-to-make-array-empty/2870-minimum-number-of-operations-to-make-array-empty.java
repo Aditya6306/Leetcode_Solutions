@@ -8,7 +8,7 @@ class Solution {
         for(int ele : map.keySet()){
             int freq = map.get(ele);
             if(freq<=1) return -1;
-            ans += (int)(Math.ceil(freq/3.0));
+            ans += (freq+2)/3;
             System.out.println(ans);
         }
         return ans;
