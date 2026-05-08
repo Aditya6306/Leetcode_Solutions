@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
