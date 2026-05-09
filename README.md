@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## String
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 <!---LeetCode Topics End-->
