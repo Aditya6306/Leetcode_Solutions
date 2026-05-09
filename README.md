@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## String
@@ -120,6 +121,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
