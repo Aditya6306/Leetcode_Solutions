@@ -7,7 +7,7 @@ class Solution {
         } 
 
         for(int j=i;j<=9;j++){
-            if(target-j < 0 || k==0)break;
+            if(target-j < 0)break;
 
             l.add(j);
             generate(k-1, target-j, j+1, l, list);
