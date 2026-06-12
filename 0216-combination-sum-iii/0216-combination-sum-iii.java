@@ -6,6 +6,8 @@ class Solution {
             return;
         } 
 
+        if(k==0) return;
+
         for(int j=i;j<=9;j++){
             if(target-j < 0)break;
 
