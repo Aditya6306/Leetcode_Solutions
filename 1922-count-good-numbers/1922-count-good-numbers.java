@@ -1,27 +1,26 @@
 class Solution {
-    long mod = 1000000007;
-    public long pow(long x,long n){
-        if(n == 0) return 1;
-        x=x%mod;
-        
-        long half = pow(x, n/2);
-        long result = (half * half) % mod;
+    long mod = (long)1e9+7;
+    public long pow(int x, long n){
+        if(n==1) return x;
+        if(n==0) return 1;
 
-        if(n%2 == 1){
-            result = (result * x) % mod;
+        long ans = pow(x, n/2);
+        long res = (ans*ans)%mod;
+        if(n%2==1) res = (res*x)%mod;
+        return res;
 
-        }
-        return result;
     }
-
     public int countGoodNumbers(long n) {
-        if(n == 1) return 5;
-        if(n  == 2) return 20;
-        
-        long even = pow(5,n-n/2);
-        long odd = pow(4,n/2);
+        if(n==1) return 5;
 
-        long ans = (even * odd)%mod ;
+
+        long even = n-n/2;
+        long odd = n/2;
+
+        long ev = pow(5, even);
+        long od = pow(4, odd);
+
+        long ans = (ev*od)%mod;
         return (int)ans;
     }
 }
