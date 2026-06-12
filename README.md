@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
