@@ -2,7 +2,7 @@ class Solution {
     long mod = 1000000007;
     public long pow(long x,long n){
         if(n == 0) return 1;
-        // x=x%mod;
+        x=x%mod;
         
         long half = pow(x, n/2);
         long result = (half * half) % mod;
