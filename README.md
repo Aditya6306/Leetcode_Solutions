@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
