@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sorting
 |  |
