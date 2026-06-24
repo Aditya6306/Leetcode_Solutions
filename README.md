@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
