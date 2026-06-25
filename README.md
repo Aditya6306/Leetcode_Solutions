@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Database
 |  |
 | ------- |
