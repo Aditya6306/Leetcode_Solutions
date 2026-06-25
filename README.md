@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
