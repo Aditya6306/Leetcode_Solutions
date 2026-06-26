@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Game Theory
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
