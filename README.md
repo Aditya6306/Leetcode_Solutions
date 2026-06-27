@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
