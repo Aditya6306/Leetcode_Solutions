@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -313,5 +316,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
