@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
