@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
