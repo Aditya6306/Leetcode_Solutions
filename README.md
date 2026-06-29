@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
