@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3975-filter-occupied-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3975-filter-occupied-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3975-filter-occupied-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
 | ------- |
