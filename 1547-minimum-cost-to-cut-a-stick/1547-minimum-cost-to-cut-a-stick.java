@@ -16,7 +16,7 @@ class Solution {
 
         for(int ele : cuts) list.add(ele);
         list.add(0, 0);
-        list.add(list.size()-1, n);
+        list.add(list.size(), n);
         Collections.sort(list);
         int[][] dp = new int[list.size()][list.size()];
         for(int[] ele : dp) Arrays.fill(ele, -1);
