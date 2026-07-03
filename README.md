@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
