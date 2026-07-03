@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
