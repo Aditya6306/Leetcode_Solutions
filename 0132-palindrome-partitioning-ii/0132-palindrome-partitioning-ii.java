@@ -18,9 +18,10 @@ class Solution {
         for(int k=i+1;k<=j;k++){
             
             if(isPalindrome(s, i, k-1)){
-                max=1+count(s, k, j, dp);
+                int ct=1+count(s, k, j, dp);
+                ans = Math.min(ans, ct);
             }
-            ans = Math.min(max, ans);
+            // ans = Math.min(max, ans);
         }
         return dp[i][j] = ans;
     }
