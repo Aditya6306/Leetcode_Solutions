@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0120-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Recursion
