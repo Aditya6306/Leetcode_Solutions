@@ -1,19 +1,26 @@
 class Solution {
-    public int calculate(List<List<Integer>> list, int i, int j, int[][] dp){
-        if(i>=list.size() || j>=list.get(i).size()) return Integer.MAX_VALUE;
-        if(i==list.size()-1) return list.get(i).get(j);
-        if(dp[i][j] != Integer.MAX_VALUE) return dp[i][j];
-        int bottom = list.get(i).get(j)+calculate(list, i+1, j, dp);
-        int bottomRight = list.get(i).get(j)+calculate(list, i+1, j+1, dp);
-        return dp[i][j] = Math.min(bottom, bottomRight);
+    public int calculate(List<List<Integer>> list, int i, int j, ArrayList<ArrayList<Integer>> l){
+        if(i==list.size()-1){
+            return list.get(i).get(j);
+        }
+        if(l.get(i).get(j) != Integer.MIN_VALUE)return l.get(i).get(j);
+        int bottom = list.get(i).get(j)+calculate(list, i+1, j, l);
+        int bottomRight = list.get(i).get(j)+calculate(list, i+1, j+1, l);
+        int ans = Math.min(bottom, bottomRight);
+        l.get(i).set(j,ans);
+        return ans;
     }
     public int minimumTotal(List<List<Integer>> triangle) {
-        int m=triangle.size();
-        int n=triangle.get(0).size();
-        int[][] dp = new int[m+1][m+1];
-        for(int[] arr : dp){
-            Arrays.fill(arr, Integer.MAX_VALUE);
+        ArrayList<ArrayList<Integer>> list = new ArrayList<>();
+        for(int i=0;i<triangle.size();i++){
+            ArrayList<Integer> l1 = new ArrayList<>();
+            for(int j=0;j<triangle.get(i).size();j++){
+                l1.add(Integer.MIN_VALUE);
+            }
+            list.add(l1);
         }
-        return calculate(triangle, 0, 0, dp);
+        System.out.println(list);
+        return calculate(triangle, 0, 0, list);
+        
     }
 }
