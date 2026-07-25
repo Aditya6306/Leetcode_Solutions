@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
