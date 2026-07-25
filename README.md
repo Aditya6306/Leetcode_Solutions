@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Dynamic Programming
