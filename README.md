@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
