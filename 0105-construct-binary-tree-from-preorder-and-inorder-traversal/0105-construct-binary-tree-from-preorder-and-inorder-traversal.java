@@ -26,8 +26,9 @@ class Solution {
         for(k=m;k<=n;k++){
             if(inOrder[k] == preOrder[i]) break;
         }
-        root.left = build(preOrder, inOrder, i+1, i+k-m, m, k-1);
-        root.right = build(preOrder, inOrder, i+k-m+1, j, k+1, n);
+        int len = k-m;
+        root.left = build(preOrder, inOrder, i+1, i+len, m, k-1);
+        root.right = build(preOrder, inOrder, i+len+1, j, k+1, n);
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
