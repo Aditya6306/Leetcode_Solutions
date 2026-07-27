@@ -28,17 +28,11 @@ class Solution {
         Queue<Node> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            if(pre == null){
-                q.add(null);
-                Node curr = q.remove();
-                if(curr != null && curr.left!=null) q.add(curr.left);
-                if(curr != null && curr.right != null) q.add(curr.right);
-                pre=curr;
-                continue;
-            }
             
+            if(pre == null)q.add(null);
             Node curr = q.remove();
-            pre.next=curr;
+            
+            if(pre!=null) pre.next=curr;
             if(curr != null && curr.left!=null) q.add(curr.left);
             if(curr != null && curr.right != null) q.add(curr.right);
             pre = curr;
