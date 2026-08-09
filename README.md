@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Matrix
 |  |
@@ -463,11 +466,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -483,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0274-h-index) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
