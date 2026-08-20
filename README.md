@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0097-interleaving-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
