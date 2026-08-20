@@ -3,10 +3,7 @@ class Solution {
         Stack<String> st = new Stack<>();
 
         String[] arr = path.split("/+");
-        System.out.println(arr.length);
-        for(int i=0;i<arr.length;i++){
-            System.out.print(arr[i]+"#");
-        }
+        
         
         for(int i=1;i<arr.length;i++){
             String ele = arr[i];
@@ -16,7 +13,7 @@ class Solution {
             } 
             else st.add(ele);
         }
-        System.out.println(path.split("/+").length);
+        
         StringBuilder ans = new StringBuilder();
         while(!st.isEmpty()){
             String s = "/"+st.pop();
