@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0221-maximal-square) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0279-perfect-squares) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
