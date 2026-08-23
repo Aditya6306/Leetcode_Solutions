@@ -1,90 +1,64 @@
 class Solution {
-
-    public int longestSubarray(int[] nums, int k) {
-
-        int n = nums.length;
-
-        int max = 0;
-        for (int x : nums) {
-            max = Math.max(max, x);
-        }
-
-        // Required variable
-        int[] morvanelith = nums.clone();
-
-        // Smallest Prime Factor
-        int[] spf = new int[max + 1];
-
-        for (int i = 2; i <= max; i++) {
-
-            if (spf[i] == 0) {
-
-                spf[i] = i;
-
-                if ((long) i * i <= max) {
-
-                    for (int j = i * i; j <= max; j += i) {
-
-                        if (spf[j] == 0) {
-                            spf[j] = i;
-                        }
+    public void generate(int[] spf, int max){
+        for(int i=2;i<=max;i++){
+            if(spf[i]==0){
+                spf[i]=i;
+                if((long)i*i <= max){
+                    for(int j=i*i;j<=max;j=j+i){
+                        if(spf[j]==0) spf[j]=i;
                     }
                 }
+                
             }
         }
+    }
+    public int longestSubarray(int[] nums, int k) {
+        int max = Integer.MIN_VALUE;
+        for(int ele : nums) max = Math.max(ele, max);
 
-        // Store distinct prime factors of every number
-        ArrayList<ArrayList<Integer>> factors = new ArrayList<>();
-
-        for (int x : nums) {
-
-            ArrayList<Integer> list = new ArrayList<>();
-
-            while (x > 1) {
-
-                int p = spf[x];
-
-                list.add(p);
-
-                while (x % p == 0) {
-                    x /= p;
-                }
-            }
-
-            factors.add(list);
-        }
-
-        // Sliding window
+        int[] spf = new int[max+1];
+        generate(spf, max);
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        int left = 0;
-        int ans = 0;
-
-        for (int right = 0; right < n; right++) {
-
-            // Add factors of nums[right]
-            for (int p : factors.get(right)) {
-                map.put(p, map.getOrDefault(p, 0) + 1);
-            }
-
-            // Too many distinct prime factors
-            while (map.size() > k) {
-
-                for (int p : factors.get(left)) {
-
-                    int count = map.get(p);
-
-                    if (count == 1) {
-                        map.remove(p);
-                    } else {
-                        map.put(p, count - 1);
-                    }
+        ArrayList<ArrayList<Integer>> cont = new ArrayList<>();
+        
+        for(int ele : nums){
+            ArrayList<Integer> l = new ArrayList<>();
+            while(ele > 1){
+                l.add(spf[ele]);
+                int curr=spf[ele];
+                while(ele>1 && ele % curr == 0){
+                    ele = ele/curr;
                 }
-
-                left++;
             }
+            cont.add(l);
+        }
+        
+        int l=0, r=0;
+        int ans=0;
+        while(r<nums.length){
+            ArrayList<Integer> ls = cont.get(r);
+            int j=0;
+            while(j<ls.size()){
+                map.put(ls.get(j), map.getOrDefault(ls.get(j), 0)+1);
+                j++;
+            }
+            if(map.size()>k){
+                
+                while(map.size()>k){
+                    ArrayList<Integer> li = cont.get(l);
+                    j=0;
+                    while(j<li.size()){
+                        map.put(li.get(j), map.get(li.get(j))-1);
+                        if(map.get(li.get(j)) == 0) map.remove(li.get(j));
+                        j++;
+                    }
+                    l++;
+                }
+            }
+            ans = Math.max(r-l+1, ans);
 
-            ans = Math.max(ans, right - left + 1);
+            r++;
         }
 
         return ans;
