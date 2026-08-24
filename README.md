@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
