@@ -29,12 +29,16 @@ class Solution {
             }
         }
         ArrayList<Integer> ans = new ArrayList<>();
-        for(int i=max-1;i>=0 ;i--){
-            if(maxIdx>=0){
-                ans.add(0, nums[maxIdx]);
-                maxIdx=arr[maxIdx];
-            // System.out.println(ans.get(0));
-            }
+        // for(int i=max-1;i>=0 ;i--){
+        //     if(maxIdx>=0){
+        //         ans.add(0, nums[maxIdx]);
+        //         maxIdx=arr[maxIdx];
+        //     // System.out.println(ans.get(0));
+        //     }
+        // }
+        while(maxIdx>=0){
+            ans.add(0, nums[maxIdx]);
+            maxIdx = arr[maxIdx];
         }
         // System.out.println(ans);
         return ans;
