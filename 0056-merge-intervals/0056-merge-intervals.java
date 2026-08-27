@@ -24,7 +24,7 @@ class Solution {
                 end = Math.max(end, currEnd);
             }
         } 
-        if(list.size()==0 ||  list.get(list.size()-1).get(1) != intervals[intervals.length-1][1]){
+        if(list.size()==0 ||  list.get(list.size()-1).get(1) != end){
             list.add(new ArrayList<>(Arrays.asList(start, end)));
         }
         int[][] ans = new int[list.size()][2];
