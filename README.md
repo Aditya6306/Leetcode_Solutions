@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditya6306/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
