@@ -8,7 +8,7 @@ public:
         return dp[i] = max(take, skip);
     }
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size()+1, -1);
+        vector<int> dp(nums.size(), -1);
         int ans = calculate(nums, 0, dp);
         return ans;
     }
